@@ -192,7 +192,6 @@ main {
 
     .featured-new-body {
         display: flex;
-        /* 500px yukarısındayken flex olacak fakat altındayken alt alta yazılacak. */
     }
 
 }
